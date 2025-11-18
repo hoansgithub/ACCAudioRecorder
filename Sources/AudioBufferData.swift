@@ -1,6 +1,6 @@
 //
 //  AudioBufferData.swift
-//  TalkNoteAI
+//  ACCAudioRecorder
 //
 //  Created by HoanNL on 16/11/25.
 //

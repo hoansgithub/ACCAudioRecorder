@@ -1,8 +1,8 @@
 //
 //  AudioPermissionService.swift
-//  TalkNoteAI
+//  ACCAudioRecorder
 //
-//  Audio Permission Service Implementation
+//  Created by HoanNL.
 //
 
 import Foundation

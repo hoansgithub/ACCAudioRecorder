@@ -1,10 +1,8 @@
 //
 //  RecordingState.swift
-//  TalkNoteAI
+//  ACCAudioRecorder
 //
 //  Created by HoanNL on 17/11/25.
-//
-//  Services Layer - Model
 //
 
 import Foundation

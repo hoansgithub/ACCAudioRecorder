@@ -1,11 +1,8 @@
 //
 //  RecordingBroadcast.swift
-//  TalkNoteAI
+//  ACCAudioRecorder
 //
 //  Created by HoanNL on 17/11/25.
-//
-//  Internal broadcast mechanism for ACCAudioRecorder
-//  Allows multiple subscribers to observe the same recording session
 //
 
 import Foundation
